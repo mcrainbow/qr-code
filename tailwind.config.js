@@ -16,6 +16,9 @@ module.exports = {
         titled: ["22px", "28px"],
         small: ["15px", "19px"],
       },
+      fontFamily: {
+        main: "Outfit",
+      },
     },
   },
   plugins: [],
